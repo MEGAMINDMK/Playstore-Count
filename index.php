@@ -74,7 +74,7 @@ function getAppDetails($appId) {
 }
 
 // Example usage
-$appId = "io.cordova.vcmpforum"; // Replace with the actual app ID
+$appId = "com.gameloft.android.ANMP.GloftA8HM"; // Replace with the actual app ID
 $appDetails = getAppDetails($appId);
 
 if ($appDetails) {
